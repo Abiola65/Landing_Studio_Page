@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.image_1{
+    margin-top: 42px;
+    margin-left: 120px;
+    width: 1200px;
+    height: 34px;
+}
+
+.drop_down_links ul{
+    margin-top: 42px;
+    width: 645px;
+    height: 20px;
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    margin-right: 70px;
+}
+.content{
+    display: flex;
+}
+.dot{
+    margin-left: -30px;
+    margin-top: 60px;
+    
+}
+
+
+.buttons {
+    margin-top: 30px;
+    display: flex;
+}
+
+.button_download {
+    position: absolute;
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+    width: 175px;
+    height: 40px;
+
+}
+.button_download h3{
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.text-content{
+    margin-left: 120px;
+    width: 471px;
+    height: 265px;
+    margin-top: 139px;
+    border-radius: 60px;
+    border: 1px;
+}
+.text-content h1{
+    font-size: 40px;
+    line-height: 49.44px;
+}
+.text-content p{
+    margin-top: 30px;
+}
+.circle{
+    margin-top: 14px;
+}
+.content-2{
+    display: flex;
+}
+.pic-1{
+    position: absolute;
+    left: 651px;
+    width: 715px;
+    margin-top: 16px;
+}
